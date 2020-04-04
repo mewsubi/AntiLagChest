@@ -1,0 +1,6 @@
+name: AntiLagChest
+main: com.mewsubi.antilagchest.AntiLagChest
+version: 1.0
+api-version: 1.15
+depend: [ProtocolLib]
+commands:
